@@ -1,0 +1,14 @@
+C:\Users\PROPRIETARIO\Desktop\Djikstra\Djikstra\bin\Debug\net6.0\Djikstra.exe
+C:\Users\PROPRIETARIO\Desktop\Djikstra\Djikstra\bin\Debug\net6.0\Djikstra.deps.json
+C:\Users\PROPRIETARIO\Desktop\Djikstra\Djikstra\bin\Debug\net6.0\Djikstra.runtimeconfig.json
+C:\Users\PROPRIETARIO\Desktop\Djikstra\Djikstra\bin\Debug\net6.0\Djikstra.dll
+C:\Users\PROPRIETARIO\Desktop\Djikstra\Djikstra\bin\Debug\net6.0\Djikstra.pdb
+C:\Users\PROPRIETARIO\Desktop\Djikstra\Djikstra\obj\Debug\net6.0\Djikstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PROPRIETARIO\Desktop\Djikstra\Djikstra\obj\Debug\net6.0\Djikstra.AssemblyInfoInputs.cache
+C:\Users\PROPRIETARIO\Desktop\Djikstra\Djikstra\obj\Debug\net6.0\Djikstra.AssemblyInfo.cs
+C:\Users\PROPRIETARIO\Desktop\Djikstra\Djikstra\obj\Debug\net6.0\Djikstra.csproj.CoreCompileInputs.cache
+C:\Users\PROPRIETARIO\Desktop\Djikstra\Djikstra\obj\Debug\net6.0\Djikstra.dll
+C:\Users\PROPRIETARIO\Desktop\Djikstra\Djikstra\obj\Debug\net6.0\refint\Djikstra.dll
+C:\Users\PROPRIETARIO\Desktop\Djikstra\Djikstra\obj\Debug\net6.0\Djikstra.pdb
+C:\Users\PROPRIETARIO\Desktop\Djikstra\Djikstra\obj\Debug\net6.0\Djikstra.genruntimeconfig.cache
+C:\Users\PROPRIETARIO\Desktop\Djikstra\Djikstra\obj\Debug\net6.0\ref\Djikstra.dll
